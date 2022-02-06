@@ -1,0 +1,12 @@
+{
+    "Alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567890-=~!@#$%^&*()_+;[]\\',./:{}|\"<>? ",
+    "Sizes": {
+        "6":  { "X":  0, "Width": 5, "Height": 6, "Spacing": 1 },
+        "7":  { "X":  6, "Width": 7, "Height": 7, "Spacing": 1 },
+        "10": { "X": 14, "Width": 10, "Height": 10, "Spacing": 1 },
+        "11": { "X": 25, "Width": 11, "Height": 11, "Spacing": 2 },
+        "14": { "X": 37, "Width": 14, "Height": 14, "Spacing": 2 },
+        "17": { "X": 52, "Width": 17, "Height": 17, "Spacing": 2 }
+    }
+}
+

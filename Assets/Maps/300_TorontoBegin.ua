@@ -1,0 +1,1 @@
+{ Chain0:, teleport Map.TestMapIskai 5 5 }

@@ -1,0 +1,72 @@
+0 Short Sword
+1 Med Sword
+2 Katana
+3 Scimitar
+4 Guarded Sword
+5 Sword (fancyness 1)
+6 Sword (fancyness 2)
+7 Sword (fancyness 3)
+8 Spear
+9 Spear with ribbon
+10 Halberd
+11 Large blade with small handle
+12 Single axe
+13 Double-headed axe
+14 Axe with maul
+15 Broad axe
+16 Bow
+17 Pronged Bow
+18 Lyre-shaped Bow
+19 Jeweled Bow
+20 Crook
+21 Staff with Vines
+22 Crescent wand
+23 Jeweled wand
+24 Leather Shield
+25 Steel Shield
+26 Copper Shield
+27 Gold Shield
+28 Small Health Potion
+29 Large Health Potion
+30 Small Mana Potion
+31 Large Mana Potion
+32 Diamond Necklace
+33 Star Necklace
+34 Tooth Necklace
+35 Skull Necklace
+36 Blue scroll
+37 Red scroll
+38 Parchment
+39 Tablet
+40 Torque
+41 Diamond Ring
+42 Silver Ring
+43 Gold Ring
+44 Basic Helm
+45 Gilded Helm 1
+46 Gilded Helm 2
+47 Horned Helm
+48 Leather Shoes
+49 Steel Shoes
+50 Gold Boots
+51 Leather Boots
+52 Wizard's Hat
+53 Witch's Hat
+54 Bandana
+55 Cowl
+56 Leather Armour
+57 Steel Armour
+58 Steel Armour with Pauldrons
+59 Gold Armour
+60 Fingerless Gloves
+61 Leather Gloves
+62 Leather-fingered Gloves
+63 Gauntlet
+64 Apple
+65 Cheese
+66 Egg
+67 Pie
+68 Gold Key
+69 Silver Key
+70 Candle
+71 Goblet
