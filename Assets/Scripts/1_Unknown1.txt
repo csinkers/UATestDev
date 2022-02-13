@@ -1,0 +1,11 @@
+npc_lock 0
+npc_move 0 -4 0
+update 1
+text 19
+update 1
+text 20
+update 1
+text 21
+update 1
+text 22
+npc_unlock 0

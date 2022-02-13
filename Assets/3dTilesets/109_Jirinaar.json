@@ -1,0 +1,169 @@
+{
+  "Id": "Labyrinth.Jirinaar",
+  "WallHeight": 196,
+  "CameraHeight": 128,
+  "BackgroundId": "DungeonBackground.EarlyGameS",
+  "BackgroundYPosition": 1,
+  "BackgroundColour": 235,
+  "WallWidth": 8,
+  "EffectiveWallWidth": 256,
+  "BackgroundTileAmount": 1,
+  "MaxVisibleTiles": 32,
+  "ObjectGroups": [],
+  "Objects": [],
+  "FloorAndCeilings": [
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.Brick"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrick"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.Water"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge2"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge3"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge4"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge5"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge6"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge7"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge8"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge9"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge10"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge11"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MossyBrickEdge12"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge2"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge3"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge4"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge5"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge6"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge7"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge8"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge9"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge10"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge11"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WatersEdge12"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WoodPanel"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.WoodPanel2"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.StonePanel"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.Moss"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.SquarePanelling"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.SquarePanellingDamaged"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.SquarePanellingIlluminatedB"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.SquarePanellingIlluminatedT"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.SquarePanellingIlluminated"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MetalBrickIlluminatedT"
+    },
+    {
+      "FrameCount": 1,
+      "SpriteId": "Floor.MetalBrickIlluminatedB"
+    }
+  ],
+  "Walls": []
+}

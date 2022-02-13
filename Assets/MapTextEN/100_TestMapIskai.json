@@ -17,5 +17,22 @@
   "Opened chest 998",
   "Unlocked chest 998",
   "Opening chest 998",
-  "Setting NPC 0 inactive"
+  "Setting NPC 0 inactive",
+  "A",
+  "B",
+  "C",
+  "D",
+  "Setting movement to 1 (Random)",
+  "Setting movement to 2 (Stationary)",
+  "Setting movement to 3 (Chase)",
+  "Setting movement to 4 (Unk4)",
+  "Setting movement to 5 (Unk5)",
+  "Setting movement to 6 (Unk6)",
+  "Setting movement to 7 (Unk7)",
+  "Setting movement to 8 (Unk8)",
+  "Setting movement to 9 (Unk9)",
+  "Setting movement to 10 (Unk10)",
+  "Setting movement to 0 (Waypoints)",
+  "Setting sprite to 26 (Rainer)",
+  "Setting sprite to 21 (Christine)"
 ]
